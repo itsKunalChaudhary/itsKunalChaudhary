@@ -69,7 +69,8 @@ const { user } = await gql(
   { login: config.login },
 );
 
-const repos = user.repositories.nodes;
+// The profile repo itself is not project work.
+const repos = user.repositories.nodes.filter((r) => !(r.owner.login === config.login && r.name === config.login));
 const visible = new Set(repos.map((r) => r.databaseId));
 const missing = config.projects.filter((p) => !visible.has(p.repoId));
 if (missing.length) {
