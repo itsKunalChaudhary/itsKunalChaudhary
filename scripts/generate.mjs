@@ -336,9 +336,9 @@ function contactTile(t) {
     body += `\n<text x="${PAD}" y="${82 + i * 18}" font-size="13" class="s">${esc(line)}</text>`;
   });
   body += `\n<line x1="${PAD}" x2="${TILE_W - PAD}" y1="160" y2="160" stroke="${t.grid}"/>
-<text x="${PAD}" y="182" font-size="13" class="b">${esc(config.email)}</text>
-<text x="${PAD}" y="198" font-size="11" class="m">Email to start a conversation</text>`;
-  return frame(t, TILE_W, H, `Open for new projects. Email ${config.email}`, body, css);
+<text x="${PAD}" y="182" font-size="13" class="b">Start a conversation</text>
+<text x="${PAD}" y="198" font-size="11" class="m">Click this card to email me</text>`;
+  return frame(t, TILE_W, H, "Open for new projects. Click to email me.", body, css);
 }
 
 function banner(t) {
@@ -409,13 +409,40 @@ const block = [
   `<sub>Counted from my commits on the default branch of every repository I work in, private ones included. Updated ${longDate(today)}.</sub>`,
 ].join("\n");
 
+// Achievements have no API, so they are read from the public profile page.
+// If the page can't be read or parsed, the existing block is left as it is.
+async function achievementsBlock() {
+  try {
+    const res = await fetch(`https://github.com/${config.login}?tab=achievements`, { headers: { "user-agent": "Mozilla/5.0 profile-generator" } });
+    if (!res.ok) return null;
+    const html = await res.text();
+    const found = new Map();
+    for (const tag of html.match(/<img[^>]*alt="Achievement: [^"]+"[^>]*>/g) ?? []) {
+      const name = tag.match(/alt="Achievement: ([^"]+)"/)[1];
+      const src = tag.match(/src="(https:\/\/github\.githubassets\.com\/[^"]+)"/)?.[1];
+      const slug = tag.match(/achievements\/([a-z0-9-]+)\/detail/)?.[1];
+      if (src && slug && !found.has(slug)) found.set(slug, { name, src });
+    }
+    if (!found.size) return null;
+    return [...found.entries()]
+      .map(([slug, a]) => `<a href="https://github.com/${config.login}?achievement=${slug}&tab=achievements"><img src="${a.src}" alt="GitHub achievement: ${esc(a.name)}" title="${esc(a.name)}" width="72"></a>`)
+      .join("\n");
+  } catch {
+    return null;
+  }
+}
+
 const readmePath = path.join(ROOT, "README.md");
-const readme = await readFile(readmePath, "utf8");
-const START = "<!-- stats:start -->";
-const END = "<!-- stats:end -->";
-if (!readme.includes(START) || !readme.includes(END)) fail("README.md is missing the stats markers.");
-const before = readme.slice(0, readme.indexOf(START) + START.length);
-const after = readme.slice(readme.indexOf(END));
-await writeFile(readmePath, `${before}\n${block}\n${after}`);
+let readme = await readFile(readmePath, "utf8");
+function fill(name, content) {
+  const START = `<!-- ${name}:start -->`;
+  const END = `<!-- ${name}:end -->`;
+  if (!readme.includes(START) || !readme.includes(END)) fail(`README.md is missing the ${name} markers.`);
+  if (content === null) return;
+  readme = `${readme.slice(0, readme.indexOf(START) + START.length)}\n${content}\n${readme.slice(readme.indexOf(END))}`;
+}
+fill("stats", block);
+fill("achievements", await achievementsBlock());
+await writeFile(readmePath, readme);
 
 console.log(`generate: ${stats.commits30} commits, ${stats.activeDays30} active days, ${stats.projects30} projects in the last ${RECENT} days.`);

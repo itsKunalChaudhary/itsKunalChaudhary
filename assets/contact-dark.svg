@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="408" height="212" viewBox="0 0 408 212" role="img" aria-label="Open for new projects. Email kunal.kkchaudhary@gmail.com">
+<svg xmlns="http://www.w3.org/2000/svg" width="408" height="212" viewBox="0 0 408 212" role="img" aria-label="Open for new projects. Click to email me.">
 <style>
 text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;fill:#f0f6fc}
 .s{fill:#9198a1}.m{fill:#8b949e}.b{font-weight:600}
@@ -19,6 +19,6 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Hel
 <text x="20" y="100" font-size="13" class="s">or software that only half fits, I can build the system</text>
 <text x="20" y="118" font-size="13" class="s">it actually needs.</text>
 <line x1="20" x2="388" y1="160" y2="160" stroke="#21262d"/>
-<text x="20" y="182" font-size="13" class="b">kunal.kkchaudhary@gmail.com</text>
-<text x="20" y="198" font-size="11" class="m">Email to start a conversation</text>
+<text x="20" y="182" font-size="13" class="b">Start a conversation</text>
+<text x="20" y="198" font-size="11" class="m">Click this card to email me</text>
 </svg>
