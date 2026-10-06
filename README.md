@@ -25,7 +25,7 @@ Client work lives in private repositories, so it's described here without client
 ## Activity
 
 <!-- stats:start -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg"><img src="assets/commits-light.svg" alt="518 commits in the last 30 days, shown per week for 12 weeks" width="408"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg"><img src="assets/commits-light.svg" alt="519 commits in the last 30 days, shown per week for 12 weeks" width="408"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/rhythm-dark.svg"><img src="assets/rhythm-light.svg" alt="Active on 29 of the last 30 days. Languages: TypeScript 51%, JavaScript 49%" width="408"></picture>
 
 <details>
@@ -33,9 +33,9 @@ Client work lives in private repositories, so it's described here without client
 
 | Measure | Value |
 | --- | --- |
-| Commits, last 30 days | 518 |
+| Commits, last 30 days | 519 |
 | Active days, last 30 days | 29 of 30 |
-| Projects with commits, last 30 days | 3 |
+| Projects with commits, last 30 days | 4 |
 | TypeScript share of code in active projects | 51% |
 | JavaScript share of code in active projects | 49% |
 
@@ -52,7 +52,7 @@ Client work lives in private repositories, so it's described here without client
 | 15 Sep 2026 | 98 |
 | 22 Sep 2026 | 128 |
 | 29 Sep 2026 | 95 |
-| 6 Oct 2026 | 156 |
+| 6 Oct 2026 | 157 |
 
 </details>
 
