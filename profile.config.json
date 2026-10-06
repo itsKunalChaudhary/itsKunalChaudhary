@@ -1,0 +1,35 @@
+{
+  "login": "itsKunalChaudhary",
+  "name": "Kunal Chaudhary",
+  "headline": "Software that runs businesses.",
+  "tagline": "CRM, HRMS, BMS and internal tools, built around how the business already works.",
+  "location": "Kolkata, India",
+  "timeZone": "Asia/Kolkata",
+  "email": "kunal.kkchaudhary@gmail.com",
+  "projects": [
+    {
+      "repoId": 1225476263,
+      "slug": "crm",
+      "title": "Field-sales CRM",
+      "context": "Private client project · diagnostics lab group",
+      "summary": "Leads, accounts, territories, targets and approval workflows, with revenue synced from the lab's own systems and WhatsApp, email and push alerts.",
+      "stack": "Next.js · TypeScript · MongoDB · TanStack Query · PWA"
+    },
+    {
+      "repoId": 1309767124,
+      "slug": "bms",
+      "title": "Business Management System",
+      "context": "Private client project · steel trading business · solo build",
+      "summary": "GST reports, party ledgers, cash and bank book, stock and inventory registers, synced from the accounting package on the office PC.",
+      "stack": "Next.js · TypeScript · PostgreSQL · Drizzle · Better Auth"
+    },
+    {
+      "repoId": 1209136690,
+      "slug": "careeriq",
+      "title": "CareerIQ",
+      "context": "Lead developer · employability platform",
+      "summary": "Connects students, institutions, mentors and employers: résumé parsing, employability scoring, job postings, mentor sessions and an AI copilot.",
+      "stack": "Next.js · MongoDB · Claude, OpenAI and Gemini APIs · AWS"
+    }
+  ]
+}

@@ -1,22 +1,97 @@
-# 💫 About Me:
-🔭 I’m currently working on building full-stack web applications using Java, Spring Boot for the backend, and modern frontend frameworks.<br>🧑‍🤝‍🧑 I’m looking to collaborate on innovative software ideas and scalable applications.<br>🤝 I’m looking for help with optimizing backend performance, implementing secure authentication, and deployment strategies.<br>🌱 I’m currently learning Spring Boot, RESTful API design, and cloud deployment tools like Docker and AWS.<br>💬 Ask me about search algorithms, system design basics, or learning paths for backend development.<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" alt="Kunal Chaudhary. Software that runs businesses." width="840"></picture>
 
+I'm a freelance full-stack developer. I build the systems a business opens every morning: the CRM its sales team works from, the billing and stock system behind the counter, the HR system that runs attendance and payroll. Most of my clients come to me running on Excel, paper registers and WhatsApp groups, and leave with one system that holds all of it.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.kunal03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalkkchaudhary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunal.kkchaudhary@gmail.com) 
+I work on the principle that **software should fit the business, not the other way round**. I learn how the work is really done before I model anything, and the data model follows that.
 
-# 💻 Tech Stack:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## What I build
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsKunalChaudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itsKunalChaudhary&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsKunalChaudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| System | What it covers |
+| --- | --- |
+| **CRM** | Leads, accounts, visits and follow-ups, territories, sales targets, approval workflows, dashboards for managers |
+| **BMS / ERP** | Invoicing and GST, party ledgers, cash and bank book, stock and inventory, sync with accounting packages such as Tally |
+| **HRMS** | Employee records, attendance, leave, payroll, role-based access |
+| **Internal tools** | Point-of-sale registers, reporting, PDF and Excel exports, notifications, integrations with systems the business already has |
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itsKunalChaudhary&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## In progress
 
----
-[![](https://visitcount.itsvg.in/api?id=itsKunalChaudhary&icon=0&color=0)](https://visitcount.itsvg.in)
+Client work lives in private repositories, so it's described here without client names. The activity on each card is read from the commit history.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-crm-dark.svg"><img src="assets/project-crm-light.svg" alt="Field-sales CRM for a diagnostics lab group. Next.js, TypeScript, MongoDB." width="408"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-bms-dark.svg"><img src="assets/project-bms-light.svg" alt="Business Management System for a steel trading business. Next.js, TypeScript, PostgreSQL." width="408"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-careeriq-dark.svg"><img src="assets/project-careeriq-light.svg" alt="CareerIQ, an employability platform. Lead developer. Next.js, MongoDB, LLM APIs." width="408"></picture>
+<a href="mailto:kunal.kkchaudhary@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg"><img src="assets/contact-light.svg" alt="Open for new projects. Email kunal.kkchaudhary@gmail.com" width="408"></picture></a>
+
+## Activity
+
+<!-- stats:start -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg"><img src="assets/commits-light.svg" alt="518 commits in the last 30 days, shown per week for 12 weeks" width="408"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/rhythm-dark.svg"><img src="assets/rhythm-light.svg" alt="Active on 29 of the last 30 days. Languages: TypeScript 51%, JavaScript 49%" width="408"></picture>
+
+<details>
+<summary>The same numbers as a table</summary>
+
+| Measure | Value |
+| --- | --- |
+| Commits, last 30 days | 518 |
+| Active days, last 30 days | 29 of 30 |
+| Projects with commits, last 30 days | 3 |
+| TypeScript share of code in active projects | 51% |
+| JavaScript share of code in active projects | 49% |
+
+| Week ending | Commits |
+| --- | --- |
+| 21 Jul 2026 | 24 |
+| 28 Jul 2026 | 76 |
+| 4 Aug 2026 | 8 |
+| 11 Aug 2026 | 46 |
+| 18 Aug 2026 | 99 |
+| 25 Aug 2026 | 86 |
+| 1 Sep 2026 | 98 |
+| 8 Sep 2026 | 94 |
+| 15 Sep 2026 | 98 |
+| 22 Sep 2026 | 128 |
+| 29 Sep 2026 | 95 |
+| 6 Oct 2026 | 156 |
+
+</details>
+
+<sub>Counted from my commits on the default branch of every repository I work in, private ones included. Updated 6 Oct 2026.</sub>
+<!-- stats:end -->
+
+## How I work
+
+- **I start with the business, not the schema.** I sit with the people who do the work, follow an invoice or a lead from start to finish, and build to that. Staff shouldn't need retraining to use their own process.
+- **One developer, the whole system.** Requirements, data model, interface, deployment and support come from the same person, so nothing is lost between hand-offs.
+- **Small phases, working software.** Each phase ships something the business can use, and the next one is planned from how they used it.
+- **I stay after launch.** A business changes, and its system has to change with it. Most of my projects continue as new modules and maintenance.
+
+## AI
+
+I build with AI tooling every day and keep the architecture, the data model and the review in my own hands. In client systems I add AI where it removes real work:
+
+- Assistants that answer questions from the business's own data
+- Extraction from documents such as résumés, invoices and PDFs into structured records
+- Agents and scheduled automations for repetitive back-office tasks
+
+## Stack
+
+| | |
+| --- | --- |
+| **Day to day** | TypeScript, Next.js (App Router), React, Tailwind CSS, shadcn/ui, TanStack Query |
+| **Data** | PostgreSQL with Drizzle, MongoDB with Mongoose |
+| **Also** | Java with Spring Boot, Python for data and ML work |
+| **AI** | Claude, OpenAI and Gemini APIs |
+| **Integrations** | Tally, WhatsApp, email and web push, PDF and Excel generation |
+| **Infrastructure** | Vercel, AWS (S3, SES), Docker, GitHub Actions |
+
+## Background
+
+B.Tech in Computer Science and Engineering, KIIT University, Bhubaneswar (2022 to 2026). I've been building for small businesses since 2022, and spent a year teaching Java, Python and SQL to working professionals.
+
+## Contact
+
+Based in Kolkata, India (IST, UTC+5:30), working with clients remotely and on site.
+
+- Email: [kunal.kkchaudhary@gmail.com](mailto:kunal.kkchaudhary@gmail.com)
+- LinkedIn: [linkedin.com/in/kunalkkchaudhary](https://www.linkedin.com/in/kunalkkchaudhary)

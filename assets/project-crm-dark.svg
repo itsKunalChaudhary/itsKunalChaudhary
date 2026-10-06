@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="408" height="212" viewBox="0 0 408 212" role="img" aria-label="Field-sales CRM: 390 commits in 30 days">
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;fill:#f0f6fc}
+.s{fill:#9198a1}.m{fill:#8b949e}.b{font-weight:600}
+.grow{transform-box:fill-box;transform-origin:50% 100%;animation:grow .8s cubic-bezier(.2,.8,.2,1) both}
+.fade{animation:fade .7s ease-out both}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="407" height="211" rx="10" fill="#0d1117" stroke="#3d444d"/>
+<text x="20" y="36" font-size="17" class="b">Field-sales CRM</text>
+<text x="20" y="57" font-size="12" class="m">Private client project · diagnostics lab group</text>
+<text x="20" y="82" font-size="13" class="s">Leads, accounts, territories, targets and approval</text>
+<text x="20" y="100" font-size="13" class="s">workflows, with revenue synced from the lab's own</text>
+<text x="20" y="118" font-size="13" class="s">systems and WhatsApp, email and push alerts.</text>
+<text x="20" y="146" font-size="12" class="m">Next.js · TypeScript · MongoDB · TanStack Query · PWA</text>
+<line x1="20" x2="388" y1="160" y2="160" stroke="#21262d"/>
+<path class="grow" style="animation-delay:0ms" d="M20 196V193.4Q20 191.4 22 191.4H25Q27 191.4 27 193.4V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:40ms" d="M29 196V192.9Q29 190.9 31 190.9H34Q36 190.9 36 192.9V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:80ms" d="M38 196V195Q38 193 40 193H43Q45 193 45 195V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:120ms" d="M47 196V189.2Q47 187.2 49 187.2H52Q54 187.2 54 189.2V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:160ms" d="M56 196V179.1Q56 177.1 58 177.1H61Q63 177.1 63 179.1V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:200ms" d="M65 196V181.6Q65 179.6 67 179.6H70Q72 179.6 72 181.6V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:240ms" d="M74 196V179.3Q74 177.3 76 177.3H79Q81 177.3 81 179.3V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:280ms" d="M83 196V180.3Q83 178.3 85 178.3H88Q90 178.3 90 180.3V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:320ms" d="M92 196V183.7Q92 181.7 94 181.7H97Q99 181.7 99 183.7V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:360ms" d="M101 196V187.9Q101 185.9 103 185.9H106Q108 185.9 108 187.9V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:400ms" d="M110 196V179.9Q110 177.9 112 177.9H115Q117 177.9 117 179.9V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:440ms" d="M119 196V174Q119 172 121 172H124Q126 172 126 174V196Z" fill="#3987e5"/>
+<text x="388" y="182" font-size="13" class="b" text-anchor="end">390 commits in 30 days</text>
+<text x="388" y="198" font-size="11" class="m" text-anchor="end">Last commit 3 Oct 2026</text>
+</svg>
