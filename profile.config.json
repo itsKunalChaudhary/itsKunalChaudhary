@@ -6,6 +6,7 @@
   "location": "Kolkata, India",
   "timeZone": "Asia/Kolkata",
   "email": "kunal.kkchaudhary@gmail.com",
+  "hiddenAchievements": ["yolo"],
   "projects": [
     {
       "repoId": 1225476263,

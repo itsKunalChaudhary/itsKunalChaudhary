@@ -411,6 +411,7 @@ const block = [
 
 // Achievements have no API, so they are read from the public profile page.
 // If the page can't be read or parsed, the existing block is left as it is.
+// The section, heading included, appears only when there is something to show.
 async function achievementsBlock() {
   try {
     const res = await fetch(`https://github.com/${config.login}?tab=achievements`, { headers: { "user-agent": "Mozilla/5.0 profile-generator" } });
@@ -424,9 +425,13 @@ async function achievementsBlock() {
       if (src && slug && !found.has(slug)) found.set(slug, { name, src });
     }
     if (!found.size) return null;
-    return [...found.entries()]
+    const hidden = new Set(config.hiddenAchievements ?? []);
+    const shown = [...found.entries()].filter(([slug]) => !hidden.has(slug));
+    if (!shown.length) return "";
+    const badges = shown
       .map(([slug, a]) => `<a href="https://github.com/${config.login}?achievement=${slug}&tab=achievements"><img src="${a.src}" alt="GitHub achievement: ${esc(a.name)}" title="${esc(a.name)}" width="72"></a>`)
       .join("\n");
+    return `## Achievements\n\n${badges}\n`;
   } catch {
     return null;
   }
@@ -439,7 +444,7 @@ function fill(name, content) {
   const END = `<!-- ${name}:end -->`;
   if (!readme.includes(START) || !readme.includes(END)) fail(`README.md is missing the ${name} markers.`);
   if (content === null) return;
-  readme = `${readme.slice(0, readme.indexOf(START) + START.length)}\n${content}\n${readme.slice(readme.indexOf(END))}`;
+  readme = `${readme.slice(0, readme.indexOf(START) + START.length)}\n${content ? `${content}\n` : ""}${readme.slice(readme.indexOf(END))}`;
 }
 fill("stats", block);
 fill("achievements", await achievementsBlock());
