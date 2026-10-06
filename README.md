@@ -102,6 +102,15 @@ I build with AI tooling every day and keep the architecture, the data model and 
 
 B.Tech in Computer Science and Engineering, KIIT University, Bhubaneswar (2022 to 2026). I've been building for small businesses since 2022, and spent a year teaching Java, Python and SQL to working professionals.
 
+## Certifications
+
+| Certification | Issued by |
+| --- | --- |
+| AWS Academy Graduate, Cloud Architecting | AWS Academy |
+| Red Hat System Administration I | Red Hat |
+| Launching into ML, Feature Engineering, ML Pipelines on GCP, Production ML Systems | Google Cloud, via Coursera |
+| Generative AI: Introduction and Applications, Prompt Engineering Basics | IBM, via Coursera |
+
 ## Achievements
 
 <!-- achievements:start -->
