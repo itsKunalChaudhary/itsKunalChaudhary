@@ -25,10 +25,10 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Hel
 <rect x="65" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="74" y="194" width="7" height="2" fill="#1c2128"/>
 <path class="grow" style="animation-delay:280ms" d="M83 196V195Q83 193 85 193H88Q90 193 90 195V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:320ms" d="M92 196V190.6Q92 188.6 94 188.6H97Q99 188.6 99 190.6V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:320ms" d="M92 196V180.7Q92 178.7 94 178.7H97Q99 178.7 99 180.7V196Z" fill="#3987e5"/>
 <path class="grow" style="animation-delay:360ms" d="M101 196V174Q101 172 103 172H106Q108 172 108 174V196Z" fill="#3987e5"/>
 <rect x="110" y="194" width="7" height="2" fill="#1c2128"/>
-<path class="grow" style="animation-delay:440ms" d="M119 196V190.6Q119 188.6 121 188.6H124Q126 188.6 126 190.6V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:440ms" d="M119 196V188.3Q119 186.3 121 186.3H124Q126 186.3 126 188.3V196Z" fill="#3987e5"/>
 <text x="388" y="182" font-size="13" class="b" text-anchor="end">121 commits in 30 days</text>
 <text x="388" y="198" font-size="11" class="m" text-anchor="end">Last commit 2 Oct 2026</text>
 </svg>
