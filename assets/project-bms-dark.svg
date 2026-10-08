@@ -17,9 +17,9 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Hel
 <text x="20" y="118" font-size="13" class="s">package on the office PC.</text>
 <text x="20" y="146" font-size="12" class="m">Next.js · TypeScript · PostgreSQL · Drizzle · Better Auth</text>
 <line x1="20" x2="388" y1="160" y2="160" stroke="#21262d"/>
-<rect x="20" y="194" width="7" height="2" fill="#1c2128"/>
-<path class="grow" style="animation-delay:40ms" d="M29 196V174Q29 172 31 172H34Q36 172 36 174V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:80ms" d="M38 196V195Q38 193 40 193H43Q45 193 45 195V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:0ms" d="M20 196V174Q20 172 22 172H25Q27 172 27 174V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:40ms" d="M29 196V175.8Q29 173.8 31 173.8H34Q36 173.8 36 175.8V196Z" fill="#3987e5"/>
+<rect x="38" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="47" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="56" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="65" y="194" width="7" height="2" fill="#1c2128"/>
@@ -28,7 +28,7 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Hel
 <rect x="92" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="101" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="110" y="194" width="7" height="2" fill="#1c2128"/>
-<path class="grow" style="animation-delay:440ms" d="M119 196V194.6Q119 192.6 121 192.6H124Q126 192.6 126 194.6V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:440ms" d="M119 196V191.5Q119 189.5 121 189.5H124Q126 189.5 126 191.5V196Z" fill="#3987e5"/>
 <text x="388" y="182" font-size="13" class="b" text-anchor="end">7 commits in 30 days</text>
 <text x="388" y="198" font-size="11" class="m" text-anchor="end">Last commit 6 Oct 2026</text>
 </svg>
