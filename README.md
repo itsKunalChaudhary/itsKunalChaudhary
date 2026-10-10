@@ -9,38 +9,38 @@ I work on the principle that **software should fit the business, not the other w
 ## Activity
 
 <!-- stats:start -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg"><img src="assets/commits-light.svg" alt="570 commits in the last 30 days, shown per week for 12 weeks" width="408"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/rhythm-dark.svg"><img src="assets/rhythm-light.svg" alt="Active on 30 of the last 30 days. Languages: TypeScript 53%, JavaScript 47%" width="408"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg"><img src="assets/commits-light.svg" alt="591 commits in the last 30 days, shown per week for 12 weeks" width="408"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/rhythm-dark.svg"><img src="assets/rhythm-light.svg" alt="Active on 29 of the last 30 days. Languages: TypeScript 54%, JavaScript 46%" width="408"></picture>
 
 <details>
 <summary>The same numbers as a table</summary>
 
 | Measure | Value |
 | --- | --- |
-| Commits, last 30 days | 570 |
-| Active days, last 30 days | 30 of 30 |
+| Commits, last 30 days | 591 |
+| Active days, last 30 days | 29 of 30 |
 | Projects with commits, last 30 days | 3 |
-| TypeScript share of code in active projects | 53% |
-| JavaScript share of code in active projects | 47% |
+| TypeScript share of code in active projects | 54% |
+| JavaScript share of code in active projects | 46% |
 
 | Week ending | Commits |
 | --- | --- |
-| 24 Jul 2026 | 70 |
-| 31 Jul 2026 | 24 |
-| 7 Aug 2026 | 4 |
-| 14 Aug 2026 | 62 |
-| 21 Aug 2026 | 121 |
-| 28 Aug 2026 | 117 |
-| 4 Sep 2026 | 50 |
-| 11 Sep 2026 | 106 |
-| 18 Sep 2026 | 111 |
-| 25 Sep 2026 | 114 |
-| 2 Oct 2026 | 152 |
-| 9 Oct 2026 | 172 |
+| 25 Jul 2026 | 68 |
+| 1 Aug 2026 | 19 |
+| 8 Aug 2026 | 10 |
+| 15 Aug 2026 | 56 |
+| 22 Aug 2026 | 124 |
+| 29 Aug 2026 | 127 |
+| 5 Sep 2026 | 55 |
+| 12 Sep 2026 | 95 |
+| 19 Sep 2026 | 113 |
+| 26 Sep 2026 | 126 |
+| 3 Oct 2026 | 201 |
+| 10 Oct 2026 | 130 |
 
 </details>
 
-<sub>Counted from my commits on the default branch of every repository I work in, private ones included. Updated 9 Oct 2026.</sub>
+<sub>Counted from my commits on the default branch of every repository I work in, private ones included. Updated 10 Oct 2026.</sub>
 <!-- stats:end -->
 
 ## In progress
