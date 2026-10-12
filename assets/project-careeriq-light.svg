@@ -26,8 +26,8 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Hel
 <path class="grow" style="animation-delay:240ms" d="M74 196V195Q74 193 76 193H79Q81 193 81 195V196Z" fill="#2a78d6"/>
 <rect x="83" y="194" width="7" height="2" fill="#eceef1"/>
 <path class="grow" style="animation-delay:320ms" d="M92 196V174Q92 172 94 172H97Q99 172 99 174V196Z" fill="#2a78d6"/>
-<path class="grow" style="animation-delay:360ms" d="M101 196V185.8Q101 183.8 103 183.8H106Q108 183.8 108 185.8V196Z" fill="#2a78d6"/>
-<path class="grow" style="animation-delay:400ms" d="M110 196V189.5Q110 187.5 112 187.5H115Q117 187.5 117 189.5V196Z" fill="#2a78d6"/>
+<rect x="101" y="194" width="7" height="2" fill="#eceef1"/>
+<path class="grow" style="animation-delay:400ms" d="M110 196V192.4Q110 190.4 112 190.4H115Q117 190.4 117 192.4V196Z" fill="#2a78d6"/>
 <rect x="119" y="194" width="7" height="2" fill="#eceef1"/>
 <text x="388" y="182" font-size="13" class="b" text-anchor="end">121 commits in 30 days</text>
 <text x="388" y="198" font-size="11" class="m" text-anchor="end">Last commit 2 Oct 2026</text>
