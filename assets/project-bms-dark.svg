@@ -27,7 +27,7 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Hel
 <rect x="83" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="92" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="101" y="194" width="7" height="2" fill="#1c2128"/>
-<path class="grow" style="animation-delay:400ms" d="M110 196V182Q110 180 112 180H115Q117 180 117 182V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:400ms" d="M110 196V176.7Q110 174.7 112 174.7H115Q117 174.7 117 176.7V196Z" fill="#3987e5"/>
 <rect x="119" y="194" width="7" height="2" fill="#1c2128"/>
 <text x="388" y="182" font-size="13" class="b" text-anchor="end">8 commits in 30 days</text>
 <text x="388" y="198" font-size="11" class="m" text-anchor="end">Last commit 9 Oct 2026</text>

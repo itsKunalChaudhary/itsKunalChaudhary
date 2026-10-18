@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="408" height="232" viewBox="0 0 408 232" role="img" aria-label="594 commits in the last 30 days">
+<svg xmlns="http://www.w3.org/2000/svg" width="408" height="232" viewBox="0 0 408 232" role="img" aria-label="598 commits in the last 30 days">
 <style>
 text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;fill:#f0f6fc}
 .s{fill:#9198a1}.m{fill:#8b949e}.b{font-weight:600}
@@ -11,26 +11,26 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Hel
 </style>
 <rect x=".5" y=".5" width="407" height="231" rx="10" fill="#0d1117" stroke="#3d444d"/>
 <text x="20" y="33" font-size="13" class="s">Commits, last 30 days</text>
-<text x="20" y="76" font-size="38" class="b">594</text>
+<text x="20" y="76" font-size="38" class="b">598</text>
 <text x="388" y="33" font-size="12" class="m" text-anchor="end">per week, last 12 weeks</text>
 <line x1="50" x2="388" y1="150" y2="150" stroke="#21262d"/>
 <text x="42" y="154" font-size="11" class="m" text-anchor="end">200</text>
 <line x1="50" x2="388" y1="108" y2="108" stroke="#21262d"/>
 <text x="42" y="112" font-size="11" class="m" text-anchor="end">400</text>
-<path class="grow" style="animation-delay:0ms" d="M54.1 192V192Q54.1 188 58.1 188H70.1Q74.1 188 74.1 192V192Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:45ms" d="M82.3 192V192Q82.3 189.9 84.4 189.9H100.2Q102.3 189.9 102.3 192V192Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:90ms" d="M110.4 192V184.2Q110.4 180.2 114.4 180.2H126.4Q130.4 180.2 130.4 184.2V192Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:135ms" d="M138.6 192V170Q138.6 166 142.6 166H154.6Q158.6 166 158.6 170V192Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:180ms" d="M166.8 192V169.3Q166.8 165.3 170.8 165.3H182.8Q186.8 165.3 186.8 169.3V192Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:225ms" d="M194.9 192V184.5Q194.9 180.5 198.9 180.5H210.9Q214.9 180.5 214.9 184.5V192Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:270ms" d="M223.1 192V176.1Q223.1 172.1 227.1 172.1H239.1Q243.1 172.1 243.1 176.1V192Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:315ms" d="M251.3 192V172.3Q251.3 168.3 255.3 168.3H267.3Q271.3 168.3 271.3 172.3V192Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:360ms" d="M279.4 192V169.5Q279.4 165.5 283.4 165.5H295.4Q299.4 165.5 299.4 169.5V192Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:405ms" d="M307.6 192V153.8Q307.6 149.8 311.6 149.8H323.6Q327.6 149.8 327.6 153.8V192Z" fill="#3987e5"/>
-<text class="fade b" style="animation-delay:700ms" x="317.6" y="143.8" font-size="11" text-anchor="middle">201</text>
-<path class="grow" style="animation-delay:450ms" d="M335.8 192V168.1Q335.8 164.1 339.8 164.1H351.8Q355.8 164.1 355.8 168.1V192Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:495ms" d="M363.9 192V170.2Q363.9 166.2 367.9 166.2H379.9Q383.9 166.2 383.9 170.2V192Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:0ms" d="M54.1 192V192Q54.1 188.6 57.4 188.6H70.7Q74.1 188.6 74.1 192V192Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:45ms" d="M82.3 192V192Q82.3 189.1 85.2 189.1H99.3Q102.3 189.1 102.3 192V192Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:90ms" d="M110.4 192V181.7Q110.4 177.7 114.4 177.7H126.4Q130.4 177.7 130.4 181.7V192Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:135ms" d="M138.6 192V172.3Q138.6 168.3 142.6 168.3H154.6Q158.6 168.3 158.6 172.3V192Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:180ms" d="M166.8 192V168.3Q166.8 164.3 170.8 164.3H182.8Q186.8 164.3 186.8 168.3V192Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:225ms" d="M194.9 192V183.6Q194.9 179.6 198.9 179.6H210.9Q214.9 179.6 214.9 183.6V192Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:270ms" d="M223.1 192V175.2Q223.1 171.2 227.1 171.2H239.1Q243.1 171.2 243.1 175.2V192Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:315ms" d="M251.3 192V173.3Q251.3 169.3 255.3 169.3H267.3Q271.3 169.3 271.3 173.3V192Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:360ms" d="M279.4 192V170.2Q279.4 166.2 283.4 166.2H295.4Q299.4 166.2 299.4 170.2V192Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:405ms" d="M307.6 192V153Q307.6 149 311.6 149H323.6Q327.6 149 327.6 153V192Z" fill="#3987e5"/>
+<text class="fade b" style="animation-delay:700ms" x="317.6" y="143" font-size="11" text-anchor="middle">205</text>
+<path class="grow" style="animation-delay:450ms" d="M335.8 192V171Q335.8 167 339.8 167H351.8Q355.8 167 355.8 171V192Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:495ms" d="M363.9 192V168.9Q363.9 164.9 367.9 164.9H379.9Q383.9 164.9 383.9 168.9V192Z" fill="#3987e5"/>
 <line x1="50" x2="388" y1="192" y2="192" stroke="#3d444d"/>
-<text x="50" y="210" font-size="11" class="m">26 Jul</text>
-<text x="388" y="210" font-size="11" class="m" text-anchor="end">17 Oct</text>
+<text x="50" y="210" font-size="11" class="m">27 Jul</text>
+<text x="388" y="210" font-size="11" class="m" text-anchor="end">18 Oct</text>
 </svg>

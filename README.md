@@ -9,7 +9,7 @@ I work on the principle that **software should fit the business, not the other w
 ## Activity
 
 <!-- stats:start -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg"><img src="assets/commits-light.svg" alt="594 commits in the last 30 days, shown per week for 12 weeks" width="408"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg"><img src="assets/commits-light.svg" alt="598 commits in the last 30 days, shown per week for 12 weeks" width="408"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/rhythm-dark.svg"><img src="assets/rhythm-light.svg" alt="Active on 28 of the last 30 days. Languages: TypeScript 55%, JavaScript 45%" width="408"></picture>
 
 <details>
@@ -17,7 +17,7 @@ I work on the principle that **software should fit the business, not the other w
 
 | Measure | Value |
 | --- | --- |
-| Commits, last 30 days | 594 |
+| Commits, last 30 days | 598 |
 | Active days, last 30 days | 28 of 30 |
 | Projects with commits, last 30 days | 3 |
 | TypeScript share of code in active projects | 55% |
@@ -25,22 +25,22 @@ I work on the principle that **software should fit the business, not the other w
 
 | Week ending | Commits |
 | --- | --- |
-| 1 Aug 2026 | 19 |
-| 8 Aug 2026 | 10 |
-| 15 Aug 2026 | 56 |
-| 22 Aug 2026 | 124 |
-| 29 Aug 2026 | 127 |
-| 5 Sep 2026 | 55 |
-| 12 Sep 2026 | 95 |
-| 19 Sep 2026 | 113 |
-| 26 Sep 2026 | 126 |
-| 3 Oct 2026 | 201 |
-| 10 Oct 2026 | 133 |
-| 17 Oct 2026 | 123 |
+| 2 Aug 2026 | 16 |
+| 9 Aug 2026 | 14 |
+| 16 Aug 2026 | 68 |
+| 23 Aug 2026 | 113 |
+| 30 Aug 2026 | 132 |
+| 6 Sep 2026 | 59 |
+| 13 Sep 2026 | 99 |
+| 20 Sep 2026 | 108 |
+| 27 Sep 2026 | 123 |
+| 4 Oct 2026 | 205 |
+| 11 Oct 2026 | 119 |
+| 18 Oct 2026 | 129 |
 
 </details>
 
-<sub>Counted from my commits on the default branch of every repository I work in, private ones included. Updated 17 Oct 2026.</sub>
+<sub>Counted from my commits on the default branch of every repository I work in, private ones included. Updated 18 Oct 2026.</sub>
 <!-- stats:end -->
 
 ## In progress
