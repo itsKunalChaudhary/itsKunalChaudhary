@@ -17,7 +17,7 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Hel
 <text x="20" y="118" font-size="13" class="s">package on the office PC.</text>
 <text x="20" y="146" font-size="12" class="m">Next.js · TypeScript · PostgreSQL · Drizzle · Better Auth</text>
 <line x1="20" x2="388" y1="160" y2="160" stroke="#21262d"/>
-<path class="grow" style="animation-delay:0ms" d="M20 196V174Q20 172 22 172H25Q27 172 27 174V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:0ms" d="M20 196V194.6Q20 192.6 22 192.6H25Q27 192.6 27 194.6V196Z" fill="#3987e5"/>
 <rect x="29" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="38" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="47" y="194" width="7" height="2" fill="#1c2128"/>
@@ -26,8 +26,8 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Hel
 <rect x="74" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="83" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="92" y="194" width="7" height="2" fill="#1c2128"/>
-<path class="grow" style="animation-delay:360ms" d="M101 196V178Q101 176 103 176H106Q108 176 108 178V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:400ms" d="M110 196V186Q110 184 112 184H115Q117 184 117 186V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:360ms" d="M101 196V174Q101 172 103 172H106Q108 172 108 174V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:400ms" d="M110 196V194.6Q110 192.6 112 192.6H115Q117 192.6 117 194.6V196Z" fill="#3987e5"/>
 <rect x="119" y="194" width="7" height="2" fill="#1c2128"/>
 <text x="388" y="182" font-size="13" class="b" text-anchor="end">8 commits in 30 days</text>
 <text x="388" y="198" font-size="11" class="m" text-anchor="end">Last commit 9 Oct 2026</text>
