@@ -21,12 +21,12 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Hel
 <rect x="29" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="38" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="47" y="194" width="7" height="2" fill="#1c2128"/>
-<rect x="56" y="194" width="7" height="2" fill="#1c2128"/>
-<path class="grow" style="animation-delay:200ms" d="M65 196V195Q65 193 67 193H70Q72 193 72 195V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:240ms" d="M74 196V180.7Q74 178.7 76 178.7H79Q81 178.7 81 180.7V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:280ms" d="M83 196V174Q83 172 85 172H88Q90 172 90 174V196Z" fill="#3987e5"/>
-<rect x="92" y="194" width="7" height="2" fill="#1c2128"/>
-<path class="grow" style="animation-delay:360ms" d="M101 196V188.3Q101 186.3 103 186.3H106Q108 186.3 108 188.3V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:160ms" d="M56 196V195Q56 193 58 193H61Q63 193 63 195V196Z" fill="#3987e5"/>
+<rect x="65" y="194" width="7" height="2" fill="#1c2128"/>
+<path class="grow" style="animation-delay:240ms" d="M74 196V174Q74 172 76 172H79Q81 172 81 174V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:280ms" d="M83 196V176.8Q83 174.8 85 174.8H88Q90 174.8 90 176.8V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:320ms" d="M92 196V195Q92 193 94 193H97Q99 193 99 195V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:360ms" d="M101 196V187.8Q101 185.8 103 185.8H106Q108 185.8 108 187.8V196Z" fill="#3987e5"/>
 <rect x="110" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="119" y="194" width="7" height="2" fill="#1c2128"/>
 <text x="388" y="182" font-size="13" class="b" text-anchor="end">23 commits in 30 days</text>
