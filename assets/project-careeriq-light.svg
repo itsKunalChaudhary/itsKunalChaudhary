@@ -24,8 +24,8 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Hel
 <path class="grow" style="animation-delay:160ms" d="M56 196V195Q56 193 58 193H61Q63 193 63 195V196Z" fill="#2a78d6"/>
 <rect x="65" y="194" width="7" height="2" fill="#eceef1"/>
 <path class="grow" style="animation-delay:240ms" d="M74 196V174Q74 172 76 172H79Q81 172 81 174V196Z" fill="#2a78d6"/>
-<path class="grow" style="animation-delay:280ms" d="M83 196V176.8Q83 174.8 85 174.8H88Q90 174.8 90 176.8V196Z" fill="#2a78d6"/>
-<path class="grow" style="animation-delay:320ms" d="M92 196V187.4Q92 185.4 94 185.4H97Q99 185.4 99 187.4V196Z" fill="#2a78d6"/>
+<path class="grow" style="animation-delay:280ms" d="M83 196V185.8Q83 183.8 85 183.8H88Q90 183.8 90 185.8V196Z" fill="#2a78d6"/>
+<path class="grow" style="animation-delay:320ms" d="M92 196V189.5Q92 187.5 94 187.5H97Q99 187.5 99 189.5V196Z" fill="#2a78d6"/>
 <rect x="101" y="194" width="7" height="2" fill="#eceef1"/>
 <rect x="110" y="194" width="7" height="2" fill="#eceef1"/>
 <rect x="119" y="194" width="7" height="2" fill="#eceef1"/>
