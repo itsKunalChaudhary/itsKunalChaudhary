@@ -9,7 +9,7 @@ I work on the principle that **software should fit the business, not the other w
 ## Activity
 
 <!-- stats:start -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg"><img src="assets/commits-light.svg" alt="531 commits in the last 30 days, shown per week for 12 weeks" width="408"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg"><img src="assets/commits-light.svg" alt="527 commits in the last 30 days, shown per week for 12 weeks" width="408"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/rhythm-dark.svg"><img src="assets/rhythm-light.svg" alt="Active on 24 of the last 30 days. Languages: TypeScript 56%, JavaScript 44%" width="408"></picture>
 
 <details>
@@ -17,7 +17,7 @@ I work on the principle that **software should fit the business, not the other w
 
 | Measure | Value |
 | --- | --- |
-| Commits, last 30 days | 531 |
+| Commits, last 30 days | 527 |
 | Active days, last 30 days | 24 of 30 |
 | Projects with commits, last 30 days | 3 |
 | TypeScript share of code in active projects | 56% |
@@ -25,22 +25,22 @@ I work on the principle that **software should fit the business, not the other w
 
 | Week ending | Commits |
 | --- | --- |
-| 11 Aug 2026 | 46 |
-| 18 Aug 2026 | 99 |
-| 25 Aug 2026 | 86 |
-| 1 Sep 2026 | 98 |
-| 8 Sep 2026 | 94 |
-| 15 Sep 2026 | 98 |
-| 22 Sep 2026 | 128 |
-| 29 Sep 2026 | 95 |
-| 6 Oct 2026 | 233 |
-| 13 Oct 2026 | 131 |
-| 20 Oct 2026 | 61 |
-| 27 Oct 2026 | 74 |
+| 12 Aug 2026 | 61 |
+| 19 Aug 2026 | 94 |
+| 26 Aug 2026 | 95 |
+| 2 Sep 2026 | 79 |
+| 9 Sep 2026 | 106 |
+| 16 Sep 2026 | 109 |
+| 23 Sep 2026 | 111 |
+| 30 Sep 2026 | 117 |
+| 7 Oct 2026 | 209 |
+| 14 Oct 2026 | 138 |
+| 21 Oct 2026 | 50 |
+| 28 Oct 2026 | 84 |
 
 </details>
 
-<sub>Counted from my commits on the default branch of every repository I work in, private ones included. Updated 27 Oct 2026.</sub>
+<sub>Counted from my commits on the default branch of every repository I work in, private ones included. Updated 28 Oct 2026.</sub>
 <!-- stats:end -->
 
 ## In progress
