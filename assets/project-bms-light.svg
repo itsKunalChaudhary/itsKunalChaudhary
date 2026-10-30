@@ -26,7 +26,7 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Hel
 <rect x="74" y="194" width="7" height="2" fill="#eceef1"/>
 <rect x="83" y="194" width="7" height="2" fill="#eceef1"/>
 <path class="grow" style="animation-delay:320ms" d="M92 196V174Q92 172 94 172H97Q99 172 99 174V196Z" fill="#2a78d6"/>
-<path class="grow" style="animation-delay:360ms" d="M101 196V194.6Q101 192.6 103 192.6H106Q108 192.6 108 194.6V196Z" fill="#2a78d6"/>
+<rect x="101" y="194" width="7" height="2" fill="#eceef1"/>
 <rect x="110" y="194" width="7" height="2" fill="#eceef1"/>
 <rect x="119" y="194" width="7" height="2" fill="#eceef1"/>
 <text x="388" y="182" font-size="13" class="b" text-anchor="end">8 commits in 30 days</text>
