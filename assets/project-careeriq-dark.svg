@@ -18,12 +18,12 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Hel
 <text x="20" y="146" font-size="12" class="m">Next.js · MongoDB · Claude, OpenAI and Gemini APIs · AWS</text>
 <line x1="20" x2="388" y1="160" y2="160" stroke="#21262d"/>
 <rect x="20" y="194" width="7" height="2" fill="#1c2128"/>
-<rect x="29" y="194" width="7" height="2" fill="#1c2128"/>
-<path class="grow" style="animation-delay:80ms" d="M38 196V195Q38 193 40 193H43Q45 193 45 195V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:120ms" d="M47 196V180.7Q47 178.7 49 178.7H52Q54 178.7 54 180.7V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:160ms" d="M56 196V174Q56 172 58 172H61Q63 172 63 174V196Z" fill="#3987e5"/>
-<rect x="65" y="194" width="7" height="2" fill="#1c2128"/>
-<path class="grow" style="animation-delay:240ms" d="M74 196V188.3Q74 186.3 76 186.3H79Q81 186.3 81 188.3V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:40ms" d="M29 196V195Q29 193 31 193H34Q36 193 36 195V196Z" fill="#3987e5"/>
+<rect x="38" y="194" width="7" height="2" fill="#1c2128"/>
+<path class="grow" style="animation-delay:120ms" d="M47 196V174Q47 172 49 172H52Q54 172 54 174V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:160ms" d="M56 196V176.8Q56 174.8 58 174.8H61Q63 174.8 63 176.8V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:200ms" d="M65 196V195Q65 193 67 193H70Q72 193 72 195V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:240ms" d="M74 196V187.8Q74 185.8 76 185.8H79Q81 185.8 81 187.8V196Z" fill="#3987e5"/>
 <rect x="83" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="92" y="194" width="7" height="2" fill="#1c2128"/>
 <rect x="101" y="194" width="7" height="2" fill="#1c2128"/>
