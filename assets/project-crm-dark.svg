@@ -17,18 +17,18 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Hel
 <text x="20" y="118" font-size="13" class="s">systems and WhatsApp, email and push alerts.</text>
 <text x="20" y="146" font-size="12" class="m">Next.js · TypeScript · MongoDB · TanStack Query · PWA</text>
 <line x1="20" x2="388" y1="160" y2="160" stroke="#21262d"/>
-<path class="grow" style="animation-delay:0ms" d="M20 196V183.9Q20 181.9 22 181.9H25Q27 181.9 27 183.9V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:40ms" d="M29 196V189.3Q29 187.3 31 187.3H34Q36 187.3 36 189.3V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:80ms" d="M38 196V186.5Q38 184.5 40 184.5H43Q45 184.5 45 186.5V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:120ms" d="M47 196V193.8Q47 191.8 49 191.8H52Q54 191.8 54 193.8V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:160ms" d="M56 196V186.2Q56 184.2 58 184.2H61Q63 184.2 63 186.2V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:0ms" d="M20 196V186.4Q20 184.4 22 184.4H25Q27 184.4 27 186.4V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:40ms" d="M29 196V187Q29 185 31 185H34Q36 185 36 187V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:80ms" d="M38 196V189.1Q38 187.1 40 187.1H43Q45 187.1 45 189.1V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:120ms" d="M47 196V191.7Q47 189.7 49 189.7H52Q54 189.7 54 191.7V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:160ms" d="M56 196V186.8Q56 184.8 58 184.8H61Q63 184.8 63 186.8V196Z" fill="#3987e5"/>
 <path class="grow" style="animation-delay:200ms" d="M65 196V174Q65 172 67 172H70Q72 172 72 174V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:240ms" d="M74 196V186.1Q74 184.1 76 184.1H79Q81 184.1 81 186.1V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:280ms" d="M83 196V183.9Q83 181.9 85 181.9H88Q90 181.9 90 183.9V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:320ms" d="M92 196V189Q92 187 94 187H97Q99 187 99 189V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:360ms" d="M101 196V191.3Q101 189.3 103 189.3H106Q108 189.3 108 191.3V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:400ms" d="M110 196V194.6Q110 192.6 112 192.6H115Q117 192.6 117 194.6V196Z" fill="#3987e5"/>
-<path class="grow" style="animation-delay:440ms" d="M119 196V194.8Q119 192.8 121 192.8H124Q126 192.8 126 194.8V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:240ms" d="M74 196V182.6Q74 180.6 76 180.6H79Q81 180.6 81 182.6V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:280ms" d="M83 196V190.8Q83 188.8 85 188.8H88Q90 188.8 90 190.8V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:320ms" d="M92 196V188.1Q92 186.1 94 186.1H97Q99 186.1 99 188.1V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:360ms" d="M101 196V191Q101 189 103 189H106Q108 189 108 191V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:400ms" d="M110 196V195Q110 193 112 193H115Q117 193 117 195V196Z" fill="#3987e5"/>
+<path class="grow" style="animation-delay:440ms" d="M119 196V195Q119 193 121 193H124Q126 193 126 195V196Z" fill="#3987e5"/>
 <text x="388" y="182" font-size="13" class="b" text-anchor="end">183 commits in 30 days</text>
 <text x="388" y="198" font-size="11" class="m" text-anchor="end">Last commit 14 Nov 2026</text>
 </svg>

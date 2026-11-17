@@ -17,20 +17,20 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Hel
 <text x="42" y="154" font-size="11" class="m" text-anchor="end">200</text>
 <line x1="50" x2="388" y1="108" y2="108" stroke="#e6e8eb"/>
 <text x="42" y="112" font-size="11" class="m" text-anchor="end">400</text>
-<path class="grow" style="animation-delay:0ms" d="M54.1 192V171.6Q54.1 167.6 58.1 167.6H70.1Q74.1 167.6 74.1 171.6V192Z" fill="#2a78d6"/>
-<path class="grow" style="animation-delay:45ms" d="M82.3 192V180.7Q82.3 176.7 86.3 176.7H98.3Q102.3 176.7 102.3 180.7V192Z" fill="#2a78d6"/>
-<path class="grow" style="animation-delay:90ms" d="M110.4 192V176.1Q110.4 172.1 114.4 172.1H126.4Q130.4 172.1 130.4 176.1V192Z" fill="#2a78d6"/>
-<path class="grow" style="animation-delay:135ms" d="M138.6 192V168.1Q138.6 164.1 142.6 164.1H154.6Q158.6 164.1 158.6 168.1V192Z" fill="#2a78d6"/>
-<path class="grow" style="animation-delay:180ms" d="M166.8 192V175.6Q166.8 171.6 170.8 171.6H182.8Q186.8 171.6 186.8 175.6V192Z" fill="#2a78d6"/>
-<path class="grow" style="animation-delay:225ms" d="M194.9 192V148.5Q194.9 144.5 198.9 144.5H210.9Q214.9 144.5 214.9 148.5V192Z" fill="#2a78d6"/>
-<text class="fade b" style="animation-delay:700ms" x="204.9" y="138.5" font-size="11" text-anchor="middle">226</text>
-<path class="grow" style="animation-delay:270ms" d="M223.1 192V174.8Q223.1 170.8 227.1 170.8H239.1Q243.1 170.8 243.1 174.8V192Z" fill="#2a78d6"/>
-<path class="grow" style="animation-delay:315ms" d="M251.3 192V171.6Q251.3 167.6 255.3 167.6H267.3Q271.3 167.6 271.3 171.6V192Z" fill="#2a78d6"/>
-<path class="grow" style="animation-delay:360ms" d="M279.4 192V180.5Q279.4 176.5 283.4 176.5H295.4Q299.4 176.5 299.4 180.5V192Z" fill="#2a78d6"/>
-<path class="grow" style="animation-delay:405ms" d="M307.6 192V184.5Q307.6 180.5 311.6 180.5H323.6Q327.6 180.5 327.6 184.5V192Z" fill="#2a78d6"/>
-<path class="grow" style="animation-delay:450ms" d="M335.8 192V190.1Q335.8 186.1 339.8 186.1H351.8Q355.8 186.1 355.8 190.1V192Z" fill="#2a78d6"/>
-<path class="grow" style="animation-delay:495ms" d="M363.9 192V190.5Q363.9 186.5 367.9 186.5H379.9Q383.9 186.5 383.9 190.5V192Z" fill="#2a78d6"/>
+<path class="grow" style="animation-delay:0ms" d="M54.1 192V175.4Q54.1 171.4 58.1 171.4H70.1Q74.1 171.4 74.1 175.4V192Z" fill="#2a78d6"/>
+<path class="grow" style="animation-delay:45ms" d="M82.3 192V176.3Q82.3 172.3 86.3 172.3H98.3Q102.3 172.3 102.3 176.3V192Z" fill="#2a78d6"/>
+<path class="grow" style="animation-delay:90ms" d="M110.4 192V175.4Q110.4 171.4 114.4 171.4H126.4Q130.4 171.4 130.4 175.4V192Z" fill="#2a78d6"/>
+<path class="grow" style="animation-delay:135ms" d="M138.6 192V169.1Q138.6 165.1 142.6 165.1H154.6Q158.6 165.1 158.6 169.1V192Z" fill="#2a78d6"/>
+<path class="grow" style="animation-delay:180ms" d="M166.8 192V176.1Q166.8 172.1 170.8 172.1H182.8Q186.8 172.1 186.8 176.1V192Z" fill="#2a78d6"/>
+<path class="grow" style="animation-delay:225ms" d="M194.9 192V147.1Q194.9 143.1 198.9 143.1H210.9Q214.9 143.1 214.9 147.1V192Z" fill="#2a78d6"/>
+<text class="fade b" style="animation-delay:700ms" x="204.9" y="137.1" font-size="11" text-anchor="middle">233</text>
+<path class="grow" style="animation-delay:270ms" d="M223.1 192V168.5Q223.1 164.5 227.1 164.5H239.1Q243.1 164.5 243.1 168.5V192Z" fill="#2a78d6"/>
+<path class="grow" style="animation-delay:315ms" d="M251.3 192V183.2Q251.3 179.2 255.3 179.2H267.3Q271.3 179.2 271.3 183.2V192Z" fill="#2a78d6"/>
+<path class="grow" style="animation-delay:360ms" d="M279.4 192V178.4Q279.4 174.4 283.4 174.4H295.4Q299.4 174.4 299.4 178.4V192Z" fill="#2a78d6"/>
+<path class="grow" style="animation-delay:405ms" d="M307.6 192V183.6Q307.6 179.6 311.6 179.6H323.6Q327.6 179.6 327.6 183.6V192Z" fill="#2a78d6"/>
+<path class="grow" style="animation-delay:450ms" d="M335.8 192V192Q335.8 188.9 338.9 188.9H352.6Q355.8 188.9 355.8 192V192Z" fill="#2a78d6"/>
+<path class="grow" style="animation-delay:495ms" d="M363.9 192V190.8Q363.9 186.8 367.9 186.8H379.9Q383.9 186.8 383.9 190.8V192Z" fill="#2a78d6"/>
 <line x1="50" x2="388" y1="192" y2="192" stroke="#c3c9d0"/>
-<text x="50" y="210" font-size="11" class="m">25 Aug</text>
-<text x="388" y="210" font-size="11" class="m" text-anchor="end">16 Nov</text>
+<text x="50" y="210" font-size="11" class="m">26 Aug</text>
+<text x="388" y="210" font-size="11" class="m" text-anchor="end">17 Nov</text>
 </svg>
