@@ -25,22 +25,22 @@ I work on the principle that **software should fit the business, not the other w
 
 | Week ending | Commits |
 | --- | --- |
-| 1 Sep 2026 | 98 |
-| 8 Sep 2026 | 94 |
-| 15 Sep 2026 | 98 |
-| 22 Sep 2026 | 128 |
-| 29 Sep 2026 | 95 |
-| 6 Oct 2026 | 233 |
-| 13 Oct 2026 | 131 |
-| 20 Oct 2026 | 61 |
-| 27 Oct 2026 | 84 |
-| 3 Nov 2026 | 59 |
-| 10 Nov 2026 | 15 |
-| 17 Nov 2026 | 25 |
+| 2 Sep 2026 | 79 |
+| 9 Sep 2026 | 106 |
+| 16 Sep 2026 | 109 |
+| 23 Sep 2026 | 111 |
+| 30 Sep 2026 | 117 |
+| 7 Oct 2026 | 209 |
+| 14 Oct 2026 | 138 |
+| 21 Oct 2026 | 50 |
+| 28 Oct 2026 | 96 |
+| 4 Nov 2026 | 54 |
+| 11 Nov 2026 | 8 |
+| 18 Nov 2026 | 25 |
 
 </details>
 
-<sub>Counted from my commits on the default branch of every repository I work in, private ones included. Updated 17 Nov 2026.</sub>
+<sub>Counted from my commits on the default branch of every repository I work in, private ones included. Updated 18 Nov 2026.</sub>
 <!-- stats:end -->
 
 ## In progress
