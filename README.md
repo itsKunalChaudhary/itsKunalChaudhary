@@ -10,7 +10,7 @@ I work on the principle that **software should fit the business, not the other w
 
 <!-- stats:start -->
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg"><img src="assets/commits-light.svg" alt="196 commits in the last 30 days, shown per week for 12 weeks" width="408"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/rhythm-dark.svg"><img src="assets/rhythm-light.svg" alt="Active on 20 of the last 30 days. Languages: TypeScript 57%, JavaScript 42%" width="408"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/rhythm-dark.svg"><img src="assets/rhythm-light.svg" alt="Active on 20 of the last 30 days. Languages: TypeScript 58%, JavaScript 42%" width="408"></picture>
 
 <details>
 <summary>The same numbers as a table</summary>
@@ -20,27 +20,27 @@ I work on the principle that **software should fit the business, not the other w
 | Commits, last 30 days | 196 |
 | Active days, last 30 days | 20 of 30 |
 | Projects with commits, last 30 days | 1 |
-| TypeScript share of code in active projects | 57% |
+| TypeScript share of code in active projects | 58% |
 | JavaScript share of code in active projects | 42% |
 
 | Week ending | Commits |
 | --- | --- |
-| 3 Sep 2026 | 58 |
-| 10 Sep 2026 | 104 |
-| 17 Sep 2026 | 123 |
-| 24 Sep 2026 | 96 |
-| 1 Oct 2026 | 118 |
-| 8 Oct 2026 | 246 |
-| 15 Oct 2026 | 120 |
-| 22 Oct 2026 | 45 |
-| 29 Oct 2026 | 89 |
-| 5 Nov 2026 | 47 |
-| 12 Nov 2026 | 4 |
-| 19 Nov 2026 | 35 |
+| 4 Sep 2026 | 50 |
+| 11 Sep 2026 | 106 |
+| 18 Sep 2026 | 111 |
+| 25 Sep 2026 | 114 |
+| 2 Oct 2026 | 152 |
+| 9 Oct 2026 | 200 |
+| 16 Oct 2026 | 126 |
+| 23 Oct 2026 | 68 |
+| 30 Oct 2026 | 64 |
+| 6 Nov 2026 | 35 |
+| 13 Nov 2026 | 24 |
+| 20 Nov 2026 | 15 |
 
 </details>
 
-<sub>Counted from my commits on the default branch of every repository I work in, private ones included. Updated 19 Nov 2026.</sub>
+<sub>Counted from my commits on the default branch of every repository I work in, private ones included. Updated 20 Nov 2026.</sub>
 <!-- stats:end -->
 
 ## In progress
