@@ -9,38 +9,38 @@ I work on the principle that **software should fit the business, not the other w
 ## Activity
 
 <!-- stats:start -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg"><img src="assets/commits-light.svg" alt="124 commits in the last 30 days, shown per week for 12 weeks" width="408"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/rhythm-dark.svg"><img src="assets/rhythm-light.svg" alt="Active on 16 of the last 30 days. Languages: TypeScript 58%, JavaScript 42%" width="408"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg"><img src="assets/commits-light.svg" alt="122 commits in the last 30 days, shown per week for 12 weeks" width="408"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/rhythm-dark.svg"><img src="assets/rhythm-light.svg" alt="Active on 15 of the last 30 days. Languages: TypeScript 58%, JavaScript 42%" width="408"></picture>
 
 <details>
 <summary>The same numbers as a table</summary>
 
 | Measure | Value |
 | --- | --- |
-| Commits, last 30 days | 124 |
-| Active days, last 30 days | 16 of 30 |
+| Commits, last 30 days | 122 |
+| Active days, last 30 days | 15 of 30 |
 | Projects with commits, last 30 days | 1 |
 | TypeScript share of code in active projects | 58% |
 | JavaScript share of code in active projects | 42% |
 
 | Week ending | Commits |
 | --- | --- |
-| 8 Sep 2026 | 94 |
-| 15 Sep 2026 | 98 |
-| 22 Sep 2026 | 128 |
-| 29 Sep 2026 | 95 |
-| 6 Oct 2026 | 233 |
-| 13 Oct 2026 | 131 |
-| 20 Oct 2026 | 61 |
-| 27 Oct 2026 | 84 |
-| 3 Nov 2026 | 59 |
-| 10 Nov 2026 | 15 |
-| 17 Nov 2026 | 30 |
-| 24 Nov 2026 | 8 |
+| 9 Sep 2026 | 106 |
+| 16 Sep 2026 | 109 |
+| 23 Sep 2026 | 111 |
+| 30 Sep 2026 | 117 |
+| 7 Oct 2026 | 209 |
+| 14 Oct 2026 | 138 |
+| 21 Oct 2026 | 50 |
+| 28 Oct 2026 | 96 |
+| 4 Nov 2026 | 54 |
+| 11 Nov 2026 | 8 |
+| 18 Nov 2026 | 38 |
+| 25 Nov 2026 | 0 |
 
 </details>
 
-<sub>Counted from my commits on the default branch of every repository I work in, private ones included. Updated 24 Nov 2026.</sub>
+<sub>Counted from my commits on the default branch of every repository I work in, private ones included. Updated 25 Nov 2026.</sub>
 <!-- stats:end -->
 
 ## In progress
